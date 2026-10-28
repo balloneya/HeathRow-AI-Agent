@@ -1,0 +1,9 @@
+{
+    "name": "heathrow-support-agent",
+    "description": "Customer support agent for Heathrow Furniture.",
+    "capabilities": [
+        "furniture returns and refunds",
+        "damage claims and reporting",
+        "shipping and delivery timelines for furniture"
+    ]
+}
